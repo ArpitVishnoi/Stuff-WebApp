@@ -1,0 +1,56 @@
+const data= {
+    products: [
+        {
+            _id: '1',
+            name:'Nike Slim Shirt',
+            image: '/images/p1.jpg',
+            price: 120,
+            brand: 'Nike',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'High Quality Material',
+        },
+        {
+            _id: '2',
+            name:'Adidas Slim Shirt',
+            image: '/images/p2.jpg',
+            price: 98,
+            brand: 'Adidas',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'High Quality Material',
+        },
+        {
+            _id: '3',
+            name:'Sports Slim Shirt',
+            image: '/images/p3.jpg',
+            price: 135,
+            brand: 'Nike',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'High Quality Material',
+        },
+        {
+            _id: '4',
+            name:'Gucci Slim Shirt',
+            image: '/images/p4.jpg',
+            price: 150,
+            brand: 'Gucci',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'High Quality Material',
+        },
+        {
+            _id: '5',
+            name:'H&M Slim Shirt',
+            image: '/images/p5.jpg',
+            price: 180,
+            brand: 'H&M',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'High Quality Material',
+        },
+    ],
+};
+export default data ;
+ 
